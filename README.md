@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20There,%20I%27m%20Yonghoon!&fontColor=34558B&desc=Quiet%20Code&descAlign=83&descAlignY=85&descSize=28" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20There,%20I%27m%20Yonghoon!&fontColor=34558B&fontSize=50&desc=Quiet%20Code&descAlign=75&descAlignY=85&descSize=25" />
     <br><br>
     <h3>:computer: Tech Stack :computer:</h3>
     <h4>:clipboard: Used as the main</h4>
