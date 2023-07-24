@@ -25,6 +25,7 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/></a>
     <br><br>
     <h4>:mailbox:Contacts</h4>
+    <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.instagram.com/calm_hn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
     <a href="https://velog.io/@johyonghoon" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
     <br><br>
