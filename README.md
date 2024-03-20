@@ -33,6 +33,8 @@
     <a href="https://velog.io/@johyonghoon" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
     <br><br>
 </div>
+
+
 ## 🎓 EXPERIENCE
 
 - `2023. 07.` ~ `현     재`	  삼성 청년 SW 아카데미 10기 재학중
