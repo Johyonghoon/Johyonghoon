@@ -39,7 +39,7 @@
 
 ## 👨🏻‍💻 Project Summary
 
-#### 🥉 [고정 지출 자동 관리 은행, "IDK 은행"](https://github.com/Johyonghoon/project-IDK)
+### 🥉 [고정 지출 자동 관리 은행, "IDK 은행"](https://github.com/Johyonghoon/project-IDK)
 
 - 🗓️ `2024. 02. 19.` ~ `2024. 04. 05.` (7주)  |  🤼 **팀장** (BE 3인 + FE 3인)
 - ⌨️ **백엔드 개발** : 고정 지출 자동 입출금 관련 기능 및 스케쥴러 개발
@@ -47,7 +47,7 @@
 
 
 
-#### 🥈 [실전 면접 준비 플랫폼, "Onterview"](https://github.com/Johyonghoon/Project-Onterview)
+### 🥈 [실전 면접 준비 플랫폼, "Onterview"](https://github.com/Johyonghoon/Project-Onterview)
 
 - 🗓️ `2024. 01. 03.` ~ `2024. 02. 16.` (7주)  |  🤼 **팀장** (BE 3인 + FE 3인 + INFRA 1인)
 - ⌨️ **프론트엔드 개발** : 회원 관리 및 1인 모의 면접 기능 개발
@@ -55,7 +55,7 @@
 
 
 
-#### 🚘 MR RC 레이싱 게임, 마이 리틀 카
+### 🚘 MR RC 레이싱 게임, 마이 리틀 카
 
 - 🗓️ `2024. 04. 08 ~ 2024. 05. 20.` (7주)  |  🤼 **팀원** (EM 3인 + FE 2인 + INFRA 1인)
 - ⌨️ **인프라 개발** : CI/CD 및 무중단 배포 클라우드 환경 구축
